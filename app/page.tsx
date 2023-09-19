@@ -3,7 +3,7 @@ export default function HomePage() {
   console.log("[HomePage] rendering");
   return (
     <>
-      <Heading>Israel Gamer</Heading>
+      <Heading>Israeli Gamer</Heading>
       <p>Only the best Israel games, reviewed for you.</p>
     </>
   );
